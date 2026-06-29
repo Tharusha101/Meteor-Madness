@@ -146,6 +146,13 @@ npm run test
 
 ---
 
+## 👥 Team
+
+- [@Tharusha101](https://github.com/Tharusha101)
+- [@Dulina10](https://github.com/Dulina10) — Dulina Meththananda
+
+---
+
 ## 🙏 Acknowledgments
 
 - Impact physics: **Collins, Melosh & Marcus (2005)**, Earth Impact Effects Program
